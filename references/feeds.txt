@@ -1,0 +1,22 @@
+# 格式：可选“名称|URL”，或直接写URL
+# 企业/机构（优先官方RSS；YouTube 使用 youtube:@handle）
+OpenAI News|https://openai.com/news/rss.xml
+Anthropic YouTube|youtube:@anthropic-ai
+DeepMind Blog|https://deepmind.com/blog/feed/basic/
+Google AI Blog|https://blog.google/technology/ai/rss/
+Microsoft Research Blog|https://www.microsoft.com/en-us/research/feed/
+Cohere Blog|https://cohere.com/blog/rss.xml
+Hugging Face Blog|https://huggingface.co/blog/feed.xml
+
+# 优秀独立开发者/研究者
+Andrej Karpathy Blog|https://karpathy.github.io/feed.xml
+Lilian Weng (Lil'Log)|https://lilianweng.github.io/lil-log/feed.xml
+Jay Alammar Blog|https://jalammar.github.io/feed.xml
+Sebastian Ruder Blog|http://ruder.io/rss/index.rss
+Simon Willison Blog|https://simonwillison.net/atom/everything/
+
+# 学术/社区
+arXiv cs.AI|http://export.arxiv.org/rss/cs.AI
+arXiv cs.LG|http://export.arxiv.org/rss/cs.LG
+arXiv cs.CL|http://export.arxiv.org/rss/cs.CL
+arXiv cs.CV|http://export.arxiv.org/rss/cs.CV

@@ -1,0 +1,4 @@
+interface:
+  display_name: "X AI Trends Digest"
+  short_description: "Fetch and summarize X AI/LLM热点 for PMs."
+  default_prompt: "抓取过去24小时X上AI/LLM热点并按指定格式输出。"
